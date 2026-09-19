@@ -1,0 +1,8 @@
+# 编译产物
+build/
+build_msvc/
+*.obj
+*.o
+*.exe
+*.out
+a.out
